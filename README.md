@@ -1,5 +1,9 @@
 # PX4 Drone Autopilot
 
+This is a repository that contains modified controller based on PX4 architecture. This work is developed for ECE@NUS.
+
+Below are same as official PX4 
+--------------------------------------------
 [![Releases](https://img.shields.io/github/release/PX4/Firmware.svg)](https://github.com/PX4/Firmware/releases) [![DOI](https://zenodo.org/badge/22634/PX4/Firmware.svg)](https://zenodo.org/badge/latestdoi/22634/PX4/Firmware)
 
 [![Nuttx Targets](https://github.com/PX4/Firmware/workflows/Nuttx%20Targets/badge.svg)](https://github.com/PX4/Firmware/actions?query=workflow%3A%22Nuttx+Targets%22?branch=master) [![SITL Tests](https://github.com/PX4/Firmware/workflows/SITL%20Tests/badge.svg?branch=master)](https://github.com/PX4/Firmware/actions?query=workflow%3A%22SITL+Tests%22)
